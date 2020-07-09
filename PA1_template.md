@@ -1,5 +1,7 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
+author: Mohammad Sarosh Basit
+date: 10/07/2020
 output: 
   html_document:
     keep_md: true
